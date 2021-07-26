@@ -22,4 +22,4 @@
 - [API](https://api.moonlist.xyz)
 - [Brain](https://brain.moonlist.xyz)
 
-_Current version:_ **1.1**
+_Current version:_ **1.2**
