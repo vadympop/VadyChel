@@ -14,12 +14,12 @@
 - <img alt="Fastify" src="https://img.shields.io/badge/-Fastify-000000?style=flat-square&logo=Fastify&logoColor=white" />
 - <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" />
 
-## My current project
-**[Moonlist](https://moonlist.xyz/)** - is a Discord-bots monitoring with a nice design and unigue functionality
+## My current project, !is closed!
+**[~~Moonlist~~](https://moonlist.xyz/)** - ~~is a Discord-bots monitoring with a nice design and unigue functionality~~
 
-### Useful links
-- [Documentation](https://docs.moonlist.xyz)
-- [API](https://api.moonlist.xyz)
-- [Brain](https://brain.moonlist.xyz)
+### ~~Useful links~~
+- [~~Documentation~~](https://docs.moonlist.xyz)
+- [~~API~~](https://api.moonlist.xyz)
+- [~~Brain~~](https://brain.moonlist.xyz)
 
-_Current version:_ **1.2**
+~~_Current version:_ **1.2**~~
